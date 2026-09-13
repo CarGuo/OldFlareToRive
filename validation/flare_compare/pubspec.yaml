@@ -1,0 +1,28 @@
+name: flare_rive_compare
+description: "Isolated macOS comparison of a legacy Flare asset and its Rive migration."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: '>=3.13.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+  flare_flutter:
+    path: ../vendor/flare_flutter
+  rive: 0.14.11
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/

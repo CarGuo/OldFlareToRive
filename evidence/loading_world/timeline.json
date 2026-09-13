@@ -1,0 +1,84 @@
+{
+  "animation": "Earth Moving",
+  "fps": 60,
+  "durationSeconds": 10.0,
+  "samples": 1201,
+  "nodes": [
+    "Map",
+    "moon Pahar"
+  ],
+  "maxPositionError": 0.00518798828125,
+  "strictTolerance": 0.0001,
+  "withinStrictTolerance": false,
+  "float32InterpolationBound": 0.02120737928383833,
+  "withinFloat32Bound": true,
+  "defaultStateMachine": {
+    "samples": [
+      {
+        "elapsedSeconds": 0.0,
+        "positions": {
+          "Map": 441.0,
+          "moon Pahar": -89.23077392578125
+        }
+      },
+      {
+        "elapsedSeconds": 1.0,
+        "positions": {
+          "Map": 358.6099853515625,
+          "moon Pahar": -162.0890350341797
+        }
+      },
+      {
+        "elapsedSeconds": 2.5,
+        "positions": {
+          "Map": 235.02499389648438,
+          "moon Pahar": -271.37640380859375
+        }
+      },
+      {
+        "elapsedSeconds": 4.0,
+        "positions": {
+          "Map": 111.43998718261719,
+          "moon Pahar": -380.6637878417969
+        }
+      },
+      {
+        "elapsedSeconds": 5.5,
+        "positions": {
+          "Map": -12.145023345947266,
+          "moon Pahar": -125.53846740722656
+        }
+      },
+      {
+        "elapsedSeconds": 7.5,
+        "positions": {
+          "Map": -176.92501831054688,
+          "moon Pahar": -270.7692565917969
+        }
+      },
+      {
+        "elapsedSeconds": 9.5,
+        "positions": {
+          "Map": -341.70501708984375,
+          "moon Pahar": -416.0000305175781
+        }
+      },
+      {
+        "elapsedSeconds": 10.5,
+        "positions": {
+          "Map": 399.80499267578125,
+          "moon Pahar": -125.65990447998047
+        }
+      },
+      {
+        "elapsedSeconds": 11.0,
+        "positions": {
+          "Map": 358.6099853515625,
+          "moon Pahar": -162.0890350341797
+        }
+      }
+    ],
+    "maxPositionError": 0.000030517578125,
+    "withinFloat32Bound": true
+  }
+}

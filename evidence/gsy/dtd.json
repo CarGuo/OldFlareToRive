@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "result": {"content": [{"text": "Connection succeeded to ws://127.0.0.1:57677/rt256IS7ZeY=. Connected apps:\n- name: Kind: Flutter - Device: sdk gphone64 arm64 - Package: gsy_github_app_flutter\n  uri: ws://127.0.0.1:57678/L9T4mQFoJs4=/ws\n", "type": "text"}]}, "id": 536}

@@ -1,0 +1,39 @@
+{
+  "type": "Instance",
+  "_vmType": "String",
+  "class": {
+    "type": "@Class",
+    "fixedId": true,
+    "id": "classes/94",
+    "name": "_OneByteString",
+    "_vmName": "_OneByteString@0150898",
+    "location": {
+      "type": "SourceLocation",
+      "script": {
+        "type": "@Script",
+        "fixedId": true,
+        "id": "libraries/@0150898/scripts/dart%3Acore-patch%2Fstring_patch.dart/0",
+        "uri": "dart:core-patch/string_patch.dart",
+        "_kind": "kernel"
+      },
+      "tokenPos": 32158,
+      "endTokenPos": 44476,
+      "line": 1011,
+      "column": 1
+    },
+    "library": {
+      "type": "@Library",
+      "fixedId": true,
+      "id": "libraries/@0150898",
+      "name": "dart.core",
+      "uri": "dart:core"
+    }
+  },
+  "size": 560,
+  "identityHashCode": 0,
+  "id": "objects/12/0",
+  "fields": [],
+  "kind": "String",
+  "length": 540,
+  "valueAsString": "[{\"distance\":0.0,\"time\":0.0,\"flareX\":441.0,\"riveX\":441.0},{\"distance\":140.0,\"time\":3.5999999999999996,\"flareX\":144.39599609375,\"riveX\":144.39601135253906},{\"distance\":233.3,\"time\":9.997143061224488,\"flareX\":-382.66461181640625,\"riveX\":-382.66461181640625},{\"distance\":233.4,\"time\":8.1632653061192e-7,\"flareX\":440.99993896484375,\"riveX\":440.99993896484375},{\"distance\":350.0,\"time\":2.5,\"flareX\":235.02499389648438,\"riveX\":235.02499389648438},{\"distance\":460.0,\"time\":9.43673469387755,\"flareX\":-336.4925537109375,\"riveX\":-336.49261474609375}]"
+}

@@ -1,0 +1,18 @@
+{
+  "static/file/loading_world_now.flr": {
+    "bytes": 102246,
+    "sha256": "936bc8ad6b4da49a1b5dbb06888db7b6376b9371040af5116ac3aaf20c60a80c"
+  },
+  "tool/flare_to_rive/demo/assets/loading_world_now.flr": {
+    "bytes": 102246,
+    "sha256": "936bc8ad6b4da49a1b5dbb06888db7b6376b9371040af5116ac3aaf20c60a80c"
+  },
+  "tool/flare_to_rive/demo/assets/loading_world_now.riv": {
+    "bytes": 110241,
+    "sha256": "50724194da34668dc943f40d63334a4efb71a3bba068a98a5ce47584982680a3"
+  },
+  "tool/flare_to_rive/loading_world/scene.rml": {
+    "bytes": 624584,
+    "sha256": "4e07246bc3f960cad3b977dc7fbf213cf4bd3a8d001b9148a458a7b0d964813f"
+  }
+}

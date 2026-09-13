@@ -1,0 +1,132 @@
+[
+  {
+    "source": "loading_world_now.flr",
+    "project": "loading_world",
+    "output": "loading_world_now.riv",
+    "animations": [
+      {
+        "name": "Earth Moving",
+        "fps": 60,
+        "duration": 10.0,
+        "loop": true,
+        "keyFrames": [
+          0,
+          299,
+          300,
+          600
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Space-Demo.flr",
+    "project": "space_demo",
+    "output": "Space-Demo.riv",
+    "animations": [
+      {
+        "name": "idle comet",
+        "fps": 60,
+        "duration": 4.0333333015441895,
+        "loop": true,
+        "keyFrames": [
+          0,
+          22,
+          74,
+          188,
+          211,
+          242
+        ]
+      },
+      {
+        "name": "idle",
+        "fps": 60,
+        "duration": 1.399999976158142,
+        "loop": true,
+        "keyFrames": [
+          0,
+          20,
+          40,
+          63,
+          84
+        ]
+      },
+      {
+        "name": "loading",
+        "fps": 60,
+        "duration": 1.399999976158142,
+        "loop": true,
+        "keyFrames": [
+          0,
+          13,
+          44,
+          84
+        ]
+      },
+      {
+        "name": "success",
+        "fps": 60,
+        "duration": 0.8500000238418579,
+        "loop": true,
+        "keyFrames": [
+          0,
+          5,
+          16,
+          30,
+          37,
+          44,
+          51
+        ]
+      },
+      {
+        "name": "pull",
+        "fps": 60,
+        "duration": 1.399999976158142,
+        "loop": true,
+        "keyFrames": [
+          0,
+          28,
+          84
+        ]
+      }
+    ]
+  },
+  {
+    "source": "flare_flutter_logo_.flr",
+    "project": "flutter_logo",
+    "output": "flare_flutter_logo_.riv",
+    "animations": [
+      {
+        "name": "Placeholder",
+        "fps": 60,
+        "duration": 1.5,
+        "loop": false,
+        "keyFrames": [
+          6,
+          26,
+          40,
+          53,
+          80,
+          90
+        ]
+      },
+      {
+        "name": "FlutterToHummingbird",
+        "fps": 60,
+        "duration": 2.0333333015441895,
+        "loop": false,
+        "keyFrames": [
+          3,
+          9,
+          14,
+          22,
+          28,
+          32,
+          63,
+          92,
+          121,
+          122
+        ]
+      }
+    ]
+  }
+]

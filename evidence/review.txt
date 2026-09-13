@@ -1,0 +1,21 @@
+Independent final review — 2026-09-13
+
+Review context: fresh reviewer, separate from author context.
+Unresolved findings: 0. Third-party source path correction applied.
+
+Verified independently:
+- 13 converter tests; RML regenerated from current parser matches sources.
+- All three RIV hashes agree across build, demo, oracle and GSY.
+- 812 raw-frame hashes and eight worst-frame pixel measurements agree with reports.
+- macOS pure demo and optional oracle evidence, including switching during load/export.
+- GSY lock only removes Flare; verification source/asset hashes match working copy.
+- Release APK has no FLR and exact migrated RIV; Flutter ELF build ID matches pinned SDK.
+- GSY real CLOSED / OPENED refresh lifecycle, widget trees, screenshots and empty Dart runtime errors.
+- Emulator restored to OPENED. Public GSY evidence copy equals local evidence.
+
+Limits retained: Space/Logo fail the strict pixel threshold; untested platforms and
+renderers are documented in docs/VALIDATION.md. No pixel-perfect or cross-platform
+claim is made. Final Git push is verified separately by the author.
+
+Whitespace check: authored source passes git diff --check. Captured tool logs and
+the otherwise unchanged vendored upstream README retain their original whitespace.

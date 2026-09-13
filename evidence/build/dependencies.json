@@ -1,0 +1,16 @@
+{
+  "gsy": {
+    "legacyRuntimePackages": [],
+    "packageCount": 227
+  },
+  "demo": {
+    "legacyRuntimePackages": [],
+    "packageCount": 40
+  },
+  "optional_comparison": {
+    "legacyRuntimePackages": [
+      "flare_flutter"
+    ],
+    "packageCount": 41
+  }
+}

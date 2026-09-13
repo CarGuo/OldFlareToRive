@@ -1,0 +1,166 @@
+{
+  "source": "Space-Demo.flr",
+  "animation": "idle comet",
+  "fps": 60,
+  "durationSeconds": 4.0333333015441895,
+  "riveDurationSeconds": 4.0333333015441895,
+  "loop": true,
+  "samples": [
+    {
+      "index": 0,
+      "sourceFrame": 0.0,
+      "seconds": 0.0,
+      "playbackReferenceSeconds": 0.0
+    },
+    {
+      "index": 1,
+      "sourceFrame": 0.5,
+      "seconds": 0.008333333333333333,
+      "playbackReferenceSeconds": 0.008333333333333333
+    },
+    {
+      "index": 2,
+      "sourceFrame": 7.333333333333333,
+      "seconds": 0.12222222222222222,
+      "playbackReferenceSeconds": 0.12222222222222222
+    },
+    {
+      "index": 3,
+      "sourceFrame": 14.666666666666666,
+      "seconds": 0.24444444444444444,
+      "playbackReferenceSeconds": 0.24444444444444444
+    },
+    {
+      "index": 4,
+      "sourceFrame": 21.5,
+      "seconds": 0.35833333333333334,
+      "playbackReferenceSeconds": 0.35833333333333334
+    },
+    {
+      "index": 5,
+      "sourceFrame": 22.0,
+      "seconds": 0.36666666666666664,
+      "playbackReferenceSeconds": 0.36666666666666664
+    },
+    {
+      "index": 6,
+      "sourceFrame": 22.5,
+      "seconds": 0.375,
+      "playbackReferenceSeconds": 0.375
+    },
+    {
+      "index": 7,
+      "sourceFrame": 39.33333333333333,
+      "seconds": 0.6555555555555554,
+      "playbackReferenceSeconds": 0.6555555555555554
+    },
+    {
+      "index": 8,
+      "sourceFrame": 56.666666666666664,
+      "seconds": 0.9444444444444444,
+      "playbackReferenceSeconds": 0.9444444444444444
+    },
+    {
+      "index": 9,
+      "sourceFrame": 73.5,
+      "seconds": 1.225,
+      "playbackReferenceSeconds": 1.225
+    },
+    {
+      "index": 10,
+      "sourceFrame": 74.0,
+      "seconds": 1.2333333333333334,
+      "playbackReferenceSeconds": 1.2333333333333334
+    },
+    {
+      "index": 11,
+      "sourceFrame": 74.5,
+      "seconds": 1.2416666666666667,
+      "playbackReferenceSeconds": 1.2416666666666667
+    },
+    {
+      "index": 12,
+      "sourceFrame": 112.0,
+      "seconds": 1.8666666666666667,
+      "playbackReferenceSeconds": 1.8666666666666667
+    },
+    {
+      "index": 13,
+      "sourceFrame": 150.0,
+      "seconds": 2.5,
+      "playbackReferenceSeconds": 2.5
+    },
+    {
+      "index": 14,
+      "sourceFrame": 187.5,
+      "seconds": 3.125,
+      "playbackReferenceSeconds": 3.125
+    },
+    {
+      "index": 15,
+      "sourceFrame": 188.0,
+      "seconds": 3.1333333333333333,
+      "playbackReferenceSeconds": 3.1333333333333333
+    },
+    {
+      "index": 16,
+      "sourceFrame": 188.5,
+      "seconds": 3.1416666666666666,
+      "playbackReferenceSeconds": 3.1416666666666666
+    },
+    {
+      "index": 17,
+      "sourceFrame": 195.66666666666666,
+      "seconds": 3.261111111111111,
+      "playbackReferenceSeconds": 3.261111111111111
+    },
+    {
+      "index": 18,
+      "sourceFrame": 203.33333333333334,
+      "seconds": 3.388888888888889,
+      "playbackReferenceSeconds": 3.388888888888889
+    },
+    {
+      "index": 19,
+      "sourceFrame": 210.5,
+      "seconds": 3.5083333333333333,
+      "playbackReferenceSeconds": 3.5083333333333333
+    },
+    {
+      "index": 20,
+      "sourceFrame": 211.0,
+      "seconds": 3.5166666666666666,
+      "playbackReferenceSeconds": 3.5166666666666666
+    },
+    {
+      "index": 21,
+      "sourceFrame": 211.5,
+      "seconds": 3.525,
+      "playbackReferenceSeconds": 3.525
+    },
+    {
+      "index": 22,
+      "sourceFrame": 221.33333333333334,
+      "seconds": 3.688888888888889,
+      "playbackReferenceSeconds": 3.688888888888889
+    },
+    {
+      "index": 23,
+      "sourceFrame": 231.66666666666666,
+      "seconds": 3.861111111111111,
+      "playbackReferenceSeconds": 3.861111111111111
+    },
+    {
+      "index": 24,
+      "sourceFrame": 241.5,
+      "seconds": 4.025,
+      "playbackReferenceSeconds": 4.025
+    },
+    {
+      "index": 25,
+      "sourceFrame": 242.0,
+      "seconds": 4.0333333015441895,
+      "playbackReferenceSeconds": 0.0
+    }
+  ]
+}

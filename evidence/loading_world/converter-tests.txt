@@ -1,0 +1,12 @@
+test_cycle_and_unsupported_clip_group_fail (test_conversion.ConversionTest.test_cycle_and_unsupported_clip_group_fail) ... ok
+test_global_draw_order_is_acyclic_and_complete (test_conversion.ConversionTest.test_global_draw_order_is_acyclic_and_complete) ... ok
+test_new_clip_semantics_are_rejected (test_conversion.ConversionTest.test_new_clip_semantics_are_rejected) ... ok
+test_original_animation_contract (test_conversion.ConversionTest.test_original_animation_contract) ... ok
+test_state_machine_is_importable_and_animation_keeps_jump (test_conversion.ConversionTest.test_state_machine_is_importable_and_animation_keeps_jump) ... ok
+test_subframe_keys_are_not_silently_quantized (test_conversion.ConversionTest.test_subframe_keys_are_not_silently_quantized) ... ok
+test_truncated_and_unknown_data_fail (test_conversion.ConversionTest.test_truncated_and_unknown_data_fail) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.201s
+
+OK

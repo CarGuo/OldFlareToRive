@@ -1,0 +1,24 @@
+2026-09-13 — 独立 reviewer 最终核验
+
+直接执行
+
+Findings
+未发现当前 macOS 单资产迁移目标的阻塞缺陷。前轮 SDK 下限问题已修正，公开 painter API、数值验证和状态机增量均已复审。
+
+已独立阅读 VALIDATION.md、flutter-run.txt、widget-final.json、runtime-clean-baseline.json、runtime-final.json、playback-before.json、playback-after.json，并查看 macos-comparison.png。
+macOS debug 构建成功；日志 VM Service 与最终实例记录一致。日志中的 foreground 失败提示之后已有真实窗口截图和运行中 widget tree，未将该提示忽略为启动验证通过。
+截图与 widget tree 均显示两个 CustomPaint、两侧动画及 Ready · 10.0 s · 2.500 s。reviewer 再次通过官方 Dart MCP 只读查询，仍命中该状态，get_runtime_errors 返回 No runtime errors found。
+播放前后记录由 playing:true 变为 false；按 ticker 时间差、2 倍速和 10 秒循环独立计算，预期 9.656218000000742 秒，实测 9.65621800000102 秒。
+
+前轮已核验原文件哈希、RML 确定性重建、独立 legacy 裁剪实现、7 个结构测试、10 对运行时 PNG、1201 点时间轴及默认状态机跨循环证据。
+float32 原生运算可精确复现 0.00518798828125 的局部坐标差；0.02120737928383833 的源关键帧误差上界对本资产合理。strict tolerance 未通过的记录明确保留，未发现掩盖失败。结论为本资产的视觉还原。
+
+深度交互
+
+Open Questions
+无。
+
+Verification Gaps
+本轮 macOS 独立 demo 的最终运行证据缺口已关闭。
+仍未覆盖：Dart 3.13 SDK 单独实跑、生产 GSY 刷新接线、Android/iOS、其它 Rive renderer、其它 Flare 资产、签名发布与编辑器源文件导出。上述边界已在验证文档说明，不纳入本轮完成声明。
+该路径不经过 adaptive shell，折叠/展开双姿态要求不适用。

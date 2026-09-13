@@ -1,0 +1,37 @@
+{
+  "type": "@Instance",
+  "_vmType": "String",
+  "class": {
+    "type": "@Class",
+    "fixedId": true,
+    "id": "classes/94",
+    "name": "_OneByteString",
+    "_vmName": "_OneByteString@0150898",
+    "location": {
+      "type": "SourceLocation",
+      "script": {
+        "type": "@Script",
+        "fixedId": true,
+        "id": "libraries/@0150898/scripts/dart%3Acore-patch%2Fstring_patch.dart/0",
+        "uri": "dart:core-patch/string_patch.dart",
+        "_kind": "kernel"
+      },
+      "tokenPos": 32158,
+      "endTokenPos": 44476,
+      "line": 1011,
+      "column": 1
+    },
+    "library": {
+      "type": "@Library",
+      "fixedId": true,
+      "id": "libraries/@0150898",
+      "name": "dart.core",
+      "uri": "dart:core"
+    }
+  },
+  "identityHashCode": 0,
+  "id": "objects/4/0",
+  "kind": "String",
+  "length": 72,
+  "valueAsString": "{\"playing\":false,\"time\":9.65621800000102,\"elapsedMicroseconds\":73578109}"
+}

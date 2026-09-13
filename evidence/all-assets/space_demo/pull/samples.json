@@ -1,0 +1,76 @@
+{
+  "source": "Space-Demo.flr",
+  "animation": "pull",
+  "fps": 60,
+  "durationSeconds": 1.399999976158142,
+  "riveDurationSeconds": 1.399999976158142,
+  "loop": true,
+  "samples": [
+    {
+      "index": 0,
+      "sourceFrame": 0.0,
+      "seconds": 0.0,
+      "playbackReferenceSeconds": 0.0
+    },
+    {
+      "index": 1,
+      "sourceFrame": 0.5,
+      "seconds": 0.008333333333333333,
+      "playbackReferenceSeconds": 0.008333333333333333
+    },
+    {
+      "index": 2,
+      "sourceFrame": 9.333333333333334,
+      "seconds": 0.15555555555555556,
+      "playbackReferenceSeconds": 0.15555555555555556
+    },
+    {
+      "index": 3,
+      "sourceFrame": 18.666666666666668,
+      "seconds": 0.3111111111111111,
+      "playbackReferenceSeconds": 0.3111111111111111
+    },
+    {
+      "index": 4,
+      "sourceFrame": 27.5,
+      "seconds": 0.4583333333333333,
+      "playbackReferenceSeconds": 0.4583333333333333
+    },
+    {
+      "index": 5,
+      "sourceFrame": 28.0,
+      "seconds": 0.4666666666666667,
+      "playbackReferenceSeconds": 0.4666666666666667
+    },
+    {
+      "index": 6,
+      "sourceFrame": 28.5,
+      "seconds": 0.475,
+      "playbackReferenceSeconds": 0.475
+    },
+    {
+      "index": 7,
+      "sourceFrame": 46.66666666666667,
+      "seconds": 0.7777777777777779,
+      "playbackReferenceSeconds": 0.7777777777777779
+    },
+    {
+      "index": 8,
+      "sourceFrame": 65.33333333333334,
+      "seconds": 1.088888888888889,
+      "playbackReferenceSeconds": 1.088888888888889
+    },
+    {
+      "index": 9,
+      "sourceFrame": 83.5,
+      "seconds": 1.3916666666666666,
+      "playbackReferenceSeconds": 1.3916666666666666
+    },
+    {
+      "index": 10,
+      "sourceFrame": 84.0,
+      "seconds": 1.399999976158142,
+      "playbackReferenceSeconds": 0.0
+    }
+  ]
+}

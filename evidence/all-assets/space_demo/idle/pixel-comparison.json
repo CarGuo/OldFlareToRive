@@ -1,0 +1,397 @@
+{
+  "definition": "RGBA 8-bit differences over the union of nontransparent pixels; no alignment or color correction",
+  "tolerances": {
+    "maxFractionOver2": 0.0002,
+    "maxMeanAbsoluteRGBA": 0.002
+  },
+  "frames": [
+    {
+      "file": "after-end-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01821396000475819,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-000-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01828467201522621,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-000-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01828467201522621,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-001-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01829855007335545,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-001-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01829855007335545,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-002-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01826154191834415,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-002-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01826154191834415,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-003-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018292602334157203,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-003-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018292602334157203,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-004-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018239733541283918,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-004-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018239733541283918,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-005-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018330932208990337,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-005-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018328949629257588,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-006-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018312428131484686,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-006-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018312428131484686,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-007-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018301854372910032,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-007-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018301854372910032,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-008-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01830515867246461,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-008-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01830515867246461,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-009-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01832234103014843,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-009-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01832234103014843,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-010-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01832564532970301,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-010-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01832564532970301,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-011-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018307802112108276,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-011-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018307802112108276,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-012-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018371905523467135,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-012-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01835604488560515,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-013-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018279385135938884,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-013-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018279385135938884,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-014-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018247663860214914,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-014-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018247663860214914,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-015-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01831374985130652,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-015-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01831374985130652,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-016-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018245020420571245,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-016-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.018245020420571245,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-017-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.0183375408080995,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-017-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.0183375408080995,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-018-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01831374985130652,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-018-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01831374985130652,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-019-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01826154191834415,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-019-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01826154191834415,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-020-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01828467201522621,
+      "maxChannelDifference": 5,
+      "passed": false
+    },
+    {
+      "file": "frame-020-playback-flare.png",
+      "foregroundPixels": 378295,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 7.930318930993008e-06,
+      "meanAbsoluteRGBA": 0.01828467201522621,
+      "maxChannelDifference": 5,
+      "passed": false
+    }
+  ],
+  "passed": false
+}

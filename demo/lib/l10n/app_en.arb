@@ -1,0 +1,33 @@
+{
+  "@@locale": "en",
+  "title": "Flare → Rive",
+  "subtitle": "Three migrated assets · eight timelines · Rive runtime",
+  "play": "Play",
+  "pause": "Pause",
+  "timeline": "Timeline (seconds)",
+  "dark": "Dark background",
+  "ready": "Ready · {duration} s · {time} s",
+  "@ready": {
+    "placeholders": {
+      "duration": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "loading": "Loading Rive animation…",
+  "error": "Could not load animation: {message}",
+  "@error": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "asset": "Asset",
+  "animation": "Animation",
+  "loop": "Loop",
+  "oneShot": "Play once"
+}

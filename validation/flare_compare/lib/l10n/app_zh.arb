@@ -1,0 +1,20 @@
+{
+  "@@locale": "zh",
+  "title": "Flare → Rive",
+  "subtitle": "原始矢量 · 同步时间轴 · macOS",
+  "original": "原版 · Flare（历史裁剪语义）",
+  "converted": "迁移版 · Rive",
+  "play": "2 倍速播放",
+  "pause": "暂停",
+  "timeline": "时间轴（秒）",
+  "pull": "下拉距离（沿用 GSY 的进度曲线）",
+  "dark": "深色背景",
+  "export": "导出对比帧",
+  "exporting": "正在导出…",
+  "saved": "验证文件：{path}",
+  "ready": "已就绪 · 时长 {duration} 秒 · 当前 {time} 秒",
+  "loading": "正在加载两个动画运行时…",
+  "error": "无法加载对比：{message}",
+  "asset": "素材",
+  "animation": "动画"
+}

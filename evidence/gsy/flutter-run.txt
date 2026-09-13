@@ -1,0 +1,226 @@
+Launching tool/ai/smoke/rive_refresh.dart on sdk gphone64 arm64 in debug mode...
+Running Gradle task 'assembleDebug'...                          
+Warning: Flutter support for your project's Kotlin version (2.2.20) will soon be dropped. Please upgrade your Kotlin version to a version of at least 2.3.20 soon.
+Alternatively, use the flag "--android-skip-build-dependency-validation" to bypass this check.
+
+Potential fix: Your project's KGP version is typically defined in the plugins block of the `settings.gradle` file (/private/tmp/gsy-rive-tools/gsy-verification/android/settings.gradle), by a plugin with the id of org.jetbrains.kotlin.android. 
+If you don't see a plugins block, your project was likely created with an older template version, in which case it is most likely defined in the top-level build.gradle file (/private/tmp/gsy-rive-tools/gsy-verification/android/build.gradle) by the ext.kotlin_version property.
+
+WARNING: Your Android app project: app located at: /private/tmp/gsy-rive-tools/gsy-verification/android/app/build.gradle
+applies the Kotlin Gradle Plugin, which will cause build failures in future versions of Flutter.
+Please migrate your app to Built-in Kotlin using this guide: https://docs.flutter.dev/release/breaking-changes/migrate-to-built-in-kotlin/for-app-developers
+
+WARNING: Your app uses the following plugins that apply Kotlin Gradle Plugin (KGP): patrol, rive_native
+Future versions of Flutter will fail to build if your app uses plugins that apply KGP.
+
+Please check the changelogs of these plugins and upgrade to a version that supports Built-in Kotlin.
+If no such version exists, report the issue to the plugin. If necessary, here is a guide on filing
+an issue against a plugin: https://docs.flutter.dev/release/breaking-changes/migrate-to-built-in-kotlin/for-app-developers#report-incompatible-kotlin-gradle-plugin-usage-to-plugin-authors
+
+If you are a plugin author, please migrate your plugin to Built-in Kotlin using this guide: https://docs.flutter.dev/release/breaking-changes/migrate-to-built-in-kotlin/for-plugin-authors
+Running Gradle task 'assembleDebug'...                            162.3s
+✓ Built build/app/outputs/flutter-apk/app-debug.apk
+Installing build/app/outputs/flutter-apk/app-debug.apk...          41.1s
+I/FlutterActivityAndFragmentDelegate( 7901): If you are attempting to set --enable-dart-profiling via Intent extras to launch a Flutter component outside of using the Flutter CLI, note that support for setting engine flags on Android via Intent will soon be dropped; see https://github.com/flutter/flutter/issues/180686 for more information on this breaking change. To migrate, set --enable-dart-profiling or any other flags specified via Intent extras on the command line instead or see https://github.com/flutter/flutter/blob/main/docs/engine/Flutter-Android-Engine-Flags.md for alternative methods.
+D/FlutterJNI( 7901): Beginning load of flutter...
+D/FlutterJNI( 7901): flutter (null) was loaded normally!
+I/flutter ( 7901): [IMPORTANT:flutter/shell/platform/android/android_context_gl_impeller.cc(104)] Using the Impeller rendering backend (OpenGLES).
+I/flutter ( 7901): 🚀 Hi, flutter_inappwebview here, thank you for using it! If you like this plugin → 💙 Support development https://inappwebview.dev/donate ⭐ Star on GitHub https://github.com/pichillilorenzo/flutter_inappwebview 📱 Showcase your app https://inappwebview.dev/showcase
+W/ithubappflutter( 7901): Suspending all threads took: 10.047ms
+D/nativeloader( 7901): Load /data/app/~~eotqnb1_YgCXwmYMQg3Ezg==/com.shuyu.gsygithub.gsygithubappflutter-mwxKUDNWfmB3EySUasrPMw==/lib/arm64/libdartjni.so using ns clns-7 from class loader (caller=/data/app/~~eotqnb1_YgCXwmYMQg3Ezg==/com.shuyu.gsygithub.gsygithubappflutter-mwxKUDNWfmB3EySUasrPMw==/base.apk!classes9.dex): ok
+I/ithubappflutter( 7901): Background concurrent mark compact GC freed 1297KB AllocSpace bytes, 3(60KB) LOS objects, 49% free, 2272KB/4480KB, paused 10.513ms,29.529ms total 309.640ms
+D/nativeloader( 7901): Load /data/app/~~eotqnb1_YgCXwmYMQg3Ezg==/com.shuyu.gsygithub.gsygithubappflutter-mwxKUDNWfmB3EySUasrPMw==/lib/arm64/librive_native.so using ns clns-7 from class loader (caller=/data/app/~~eotqnb1_YgCXwmYMQg3Ezg==/com.shuyu.gsygithub.gsygithubappflutter-mwxKUDNWfmB3EySUasrPMw==/base.apk!classes11.dex): ok
+W/ithubappflutter( 7901): Verification of void io.flutter.plugins.sharedpreferences.SharedPreferencesBackend.clear(java.util.List, io.flutter.plugins.sharedpreferences.SharedPreferencesPigeonOptions) took 139.732ms (794.37 bytecodes/s) (4480B approximate peak alloc)
+W/ithubappflutter( 7901): Accessing hidden method Landroid/view/accessibility/AccessibilityNodeInfo;->getSourceNodeId()J (unsupported,test-api, reflection, allowed)
+W/ithubappflutter( 7901): Accessing hidden method Landroid/view/accessibility/AccessibilityRecord;->getSourceNodeId()J (unsupported, reflection, allowed)
+W/ithubappflutter( 7901): Accessing hidden field Landroid/view/accessibility/AccessibilityNodeInfo;->mChildNodeIds:Landroid/util/LongArray; (unsupported, reflection, allowed)
+W/ithubappflutter( 7901): Accessing hidden method Landroid/util/LongArray;->get(I)J (unsupported, reflection, allowed)
+D/AccessibilityBridge( 7901): Setting not found: accessibility_display_inversion_enabled, using default: 0
+D/FlutterRenderer( 7901): Width is zero. 0,0
+D/CompatChangeReporter( 7901): Compat change id reported: 309578419; UID 10207; state: ENABLED
+W/HWUI    ( 7901): Unknown dataspace 0
+Syncing files to device sdk gphone64 arm64...                   
+I/Choreographer( 7901): Skipped 150 frames!  The application may be doing too much work on its main thread.
+W/ithubappflutter( 7901): Verification of void androidx.profileinstaller.ProfileInstaller.writeProfile(android.content.Context, java.util.concurrent.Executor, androidx.profileinstaller.ProfileInstaller$DiagnosticsCallback, boolean) took 194.956ms (707.85 bytecodes/s) (5080B approximate peak alloc)
+D/ProfileInstaller( 7901): Installing profile for com.shuyu.gsygithub.gsygithubappflutter
+I/WindowExtensionsImpl( 7901): Initializing Window Extensions, vendor API level=6, activity embedding enabled=true
+D/FlutterRenderer( 7901): Width is zero. 0,0
+D/FlutterJNI( 7901): Sending viewport metrics to the engine.
+W/HWUI    ( 7901): Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+W/HWUI    ( 7901): Failed to initialize 101010-2 format, error = EGL_SUCCESS
+I/Gralloc4( 7901): mapper 4.x is not supported
+I/ithubappflutter( 7901): Compiler allocated 5250KB to compile void android.view.ViewRootImpl.performTraversals()
+Syncing files to device sdk gphone64 arm64...                    2,741ms
+
+Flutter run key commands.
+r Hot reload. 🔥🔥🔥
+R Hot restart.
+h List all available interactive commands.
+d Detach (terminate "flutter run" but leave application running).
+c Clear the screen
+q Quit (terminate the application on the device).
+
+A Dart VM Service on sdk gphone64 arm64 is available at: http://127.0.0.1:57678/L9T4mQFoJs4=/
+The Flutter DevTools debugger and profiler on sdk gphone64 arm64 is available at: http://127.0.0.1:57678/L9T4mQFoJs4=/devtools/?uri=ws://127.0.0.1:57678/L9T4mQFoJs4=/ws
+I/ithubappflutter( 7901): Compiler allocated 5427KB to compile void android.view.ViewRootImpl.performTraversals()
+I/ithubappflutter( 7901): Background concurrent mark compact GC freed 946KB AllocSpace bytes, 0(0B) LOS objects, 49% free, 3443KB/6886KB, paused 87us,2.014ms total 127.101ms
+I/Choreographer( 7901): Skipped 633 frames!  The application may be doing too much work on its main thread.
+D/FlutterJNI( 7901): Sending viewport metrics to the engine.
+I/HWUI    ( 7901): Davey! duration=705ms; Flags=1, FrameTimelineVsyncId=25840, IntendedVsync=3012843263430, Vsync=3013159930084, InputEventId=0, HandleInputStart=3013175403061, AnimationStart=3013175404311, PerformTraversalsStart=3013175404769, DrawStart=3013186818644, FrameDeadline=3012859930096, FrameInterval=3013171916561, FrameStartTime=16666666, SyncQueued=3013212543144, SyncStart=3013217079478, IssueDrawCommandsStart=3013236201728, SwapBuffers=3013480865561, FrameCompleted=3013553575519, DequeueBufferDuration=66316625, QueueBufferDuration=1095709, GpuCompleted=3013552580103, SwapBuffersCompleted=3013553575519, DisplayPresentTime=72904454231359566, CommandSubmissionCompleted=3013480865561, 
+D/EGL_emulation( 7901): app_time_stats: avg=1271.12ms min=91.73ms max=2450.50ms count=2
+D/EGL_emulation( 7901): app_time_stats: avg=48968.49ms min=48968.49ms max=48968.49ms count=1
+D/EGL_emulation( 7901): app_time_stats: avg=705.24ms min=580.45ms max=830.03ms count=2
+D/FlutterJNI( 7901): Sending viewport metrics to the engine.
+D/VRI[MainActivity]( 7901): visibilityChanged oldVisibility=true newVisibility=false
+D/EGL_emulation( 7901): app_time_stats: avg=70875.34ms min=70875.34ms max=70875.34ms count=1
+I/Choreographer( 7901): Skipped 164 frames!  The application may be doing too much work on its main thread.
+D/FlutterJNI( 7901): Sending viewport metrics to the engine.
+D/FlutterJNI( 7901): Sending viewport metrics to the engine.
+D/FlutterJNI( 7901): Sending viewport metrics to the engine.
+D/FlutterJNI( 7901): Sending viewport metrics to the engine.
+D/EGL_emulation( 7901): app_time_stats: avg=639.52ms min=299.70ms max=979.33ms count=2
+D/FlutterJNI( 7901): Sending viewport metrics to the engine.
+D/EGL_emulation( 7901): app_time_stats: avg=872.54ms min=376.44ms max=1368.63ms count=2
+D/EGL_emulation( 7901): app_time_stats: avg=7953.58ms min=198.65ms max=15708.51ms count=2
+D/EGL_emulation( 7901): app_time_stats: avg=207.40ms min=122.89ms max=318.76ms count=5
+D/EGL_emulation( 7901): app_time_stats: avg=135.20ms min=93.78ms max=227.45ms count=8
+D/EGL_emulation( 7901): app_time_stats: avg=114.50ms min=6.82ms max=212.39ms count=8
+D/EGL_emulation( 7901): app_time_stats: avg=126.99ms min=31.34ms max=254.59ms count=8
+D/EGL_emulation( 7901): app_time_stats: avg=122.46ms min=40.71ms max=279.87ms count=7
+D/EGL_emulation( 7901): app_time_stats: avg=166.14ms min=77.54ms max=400.93ms count=6
+D/EGL_emulation( 7901): app_time_stats: avg=121.53ms min=8.61ms max=358.20ms count=6
+D/EGL_emulation( 7901): app_time_stats: avg=106.68ms min=56.18ms max=208.83ms count=8
+D/EGL_emulation( 7901): app_time_stats: avg=195.80ms min=105.38ms max=349.99ms count=5
+D/EGL_emulation( 7901): app_time_stats: avg=92.03ms min=40.56ms max=164.11ms count=10
+D/EGL_emulation( 7901): app_time_stats: avg=170.78ms min=82.12ms max=299.42ms count=6
+D/EGL_emulation( 7901): app_time_stats: avg=173.91ms min=105.81ms max=334.26ms count=6
+D/EGL_emulation( 7901): app_time_stats: avg=119.44ms min=10.52ms max=211.25ms count=7
+D/EGL_emulation( 7901): app_time_stats: avg=100.49ms min=38.02ms max=132.89ms count=9
+D/EGL_emulation( 7901): app_time_stats: avg=120.43ms min=57.62ms max=172.15ms count=7
+D/EGL_emulation( 7901): app_time_stats: avg=240.29ms min=142.32ms max=321.76ms count=4
+D/EGL_emulation( 7901): app_time_stats: avg=162.20ms min=71.45ms max=312.02ms count=7
+D/EGL_emulation( 7901): app_time_stats: avg=142.89ms min=96.03ms max=309.37ms count=7
+D/EGL_emulation( 7901): app_time_stats: avg=81.63ms min=25.53ms max=168.39ms count=9
+D/EGL_emulation( 7901): app_time_stats: avg=199.18ms min=76.08ms max=383.60ms count=5
+D/EGL_emulation( 7901): app_time_stats: avg=201.05ms min=54.97ms max=638.45ms count=5
+D/EGL_emulation( 7901): app_time_stats: avg=1705.10ms min=1705.10ms max=1705.10ms count=1
+D/EGL_emulation( 7901): app_time_stats: avg=1204.52ms min=850.11ms max=1558.93ms count=2
+D/EGL_emulation( 7901): app_time_stats: avg=1075.20ms min=1075.20ms max=1075.20ms count=1
+D/EGL_emulation( 7901): app_time_stats: avg=121.84ms min=40.26ms max=213.15ms count=6
+D/EGL_emulation( 7901): app_time_stats: avg=117.71ms min=94.90ms max=144.91ms count=8
+D/EGL_emulation( 7901): app_time_stats: avg=200.06ms min=105.06ms max=377.76ms count=5
+D/EGL_emulation( 7901): app_time_stats: avg=95.85ms min=43.59ms max=144.56ms count=9
+D/EGL_emulation( 7901): app_time_stats: avg=111.91ms min=57.84ms max=233.88ms count=8
+D/EGL_emulation( 7901): app_time_stats: avg=98.92ms min=35.29ms max=173.75ms count=9
+D/EGL_emulation( 7901): app_time_stats: avg=67.83ms min=36.78ms max=91.43ms count=8
+D/EGL_emulation( 7901): app_time_stats: avg=185.07ms min=76.85ms max=355.45ms count=6
+D/EGL_emulation( 7901): app_time_stats: avg=149.17ms min=63.11ms max=206.13ms count=5
+D/EGL_emulation( 7901): app_time_stats: avg=519.13ms min=25.16ms max=1220.91ms count=3
+D/EGL_emulation( 7901): app_time_stats: avg=386.07ms min=258.57ms max=626.08ms count=3
+D/EGL_emulation( 7901): app_time_stats: avg=207.04ms min=136.59ms max=361.46ms count=5
+D/EGL_emulation( 7901): app_time_stats: avg=131.69ms min=60.58ms max=177.72ms count=6
+D/EGL_emulation( 7901): app_time_stats: avg=126.22ms min=48.26ms max=210.69ms count=7
+D/EGL_emulation( 7901): app_time_stats: avg=101.06ms min=4.74ms max=295.24ms count=10
+D/EGL_emulation( 7901): app_time_stats: avg=85.41ms min=44.44ms max=132.01ms count=8
+D/EGL_emulation( 7901): app_time_stats: avg=69.68ms min=32.32ms max=122.46ms count=10
+D/EGL_emulation( 7901): app_time_stats: avg=187.88ms min=105.87ms max=379.18ms count=5
+D/EGL_emulation( 7901): app_time_stats: avg=172.10ms min=98.61ms max=278.07ms count=6
+D/EGL_emulation( 7901): app_time_stats: avg=150.29ms min=92.26ms max=216.63ms count=7
+D/EGL_emulation( 7901): app_time_stats: avg=117.17ms min=46.07ms max=165.95ms count=9
+D/EGL_emulation( 7901): app_time_stats: avg=156.21ms min=100.03ms max=286.69ms count=8
+D/EGL_emulation( 7901): app_time_stats: avg=93.91ms min=33.91ms max=179.17ms count=8
+D/EGL_emulation( 7901): app_time_stats: avg=429.90ms min=64.54ms max=1128.06ms count=4
+D/EGL_emulation( 7901): app_time_stats: avg=291.63ms min=200.29ms max=393.88ms count=4
+D/EGL_emulation( 7901): app_time_stats: avg=171.54ms min=44.39ms max=527.61ms count=7
+D/EGL_emulation( 7901): app_time_stats: avg=129.77ms min=104.62ms max=220.85ms count=8
+D/EGL_emulation( 7901): app_time_stats: avg=76.96ms min=31.59ms max=144.33ms count=9
+D/EGL_emulation( 7901): app_time_stats: avg=110.07ms min=36.76ms max=286.75ms count=7
+D/EGL_emulation( 7901): app_time_stats: avg=136.82ms min=13.03ms max=397.09ms count=7
+D/EGL_emulation( 7901): app_time_stats: avg=88.50ms min=46.46ms max=162.81ms count=8
+D/EGL_emulation( 7901): app_time_stats: avg=77.02ms min=18.17ms max=200.17ms count=10
+D/EGL_emulation( 7901): app_time_stats: avg=89.06ms min=57.28ms max=143.22ms count=7
+D/EGL_emulation( 7901): app_time_stats: avg=106.78ms min=87.12ms max=136.75ms count=10
+D/EGL_emulation( 7901): app_time_stats: avg=131.78ms min=59.74ms max=173.11ms count=7
+D/EGL_emulation( 7901): app_time_stats: avg=204.94ms min=91.25ms max=461.38ms count=5
+D/EGL_emulation( 7901): app_time_stats: avg=198.65ms min=34.80ms max=632.50ms count=5
+D/EGL_emulation( 7901): app_time_stats: avg=157.46ms min=41.85ms max=347.46ms count=6
+D/EGL_emulation( 7901): app_time_stats: avg=86.85ms min=36.15ms max=126.21ms count=10
+D/EGL_emulation( 7901): app_time_stats: avg=92.71ms min=41.32ms max=109.97ms count=11
+D/EGL_emulation( 7901): app_time_stats: avg=85.16ms min=45.81ms max=182.20ms count=8
+D/EGL_emulation( 7901): app_time_stats: avg=136.48ms min=46.35ms max=233.55ms count=6
+D/EGL_emulation( 7901): app_time_stats: avg=125.96ms min=54.92ms max=193.78ms count=8
+D/EGL_emulation( 7901): app_time_stats: avg=96.26ms min=53.82ms max=148.59ms count=10
+D/EGL_emulation( 7901): app_time_stats: avg=111.45ms min=86.70ms max=190.15ms count=9
+D/EGL_emulation( 7901): app_time_stats: avg=120.56ms min=73.40ms max=151.53ms count=6
+D/EGL_emulation( 7901): app_time_stats: avg=182.61ms min=101.65ms max=520.83ms count=6
+D/EGL_emulation( 7901): app_time_stats: avg=123.41ms min=93.20ms max=202.95ms count=8
+D/EGL_emulation( 7901): app_time_stats: avg=85.91ms min=31.99ms max=181.51ms count=10
+D/EGL_emulation( 7901): app_time_stats: avg=140.64ms min=40.98ms max=415.66ms count=7
+D/EGL_emulation( 7901): app_time_stats: avg=149.09ms min=89.93ms max=224.29ms count=7
+D/EGL_emulation( 7901): app_time_stats: avg=147.31ms min=50.82ms max=412.42ms count=8
+D/EGL_emulation( 7901): app_time_stats: avg=146.04ms min=37.81ms max=243.87ms count=6
+D/FlutterJNI( 7901): Sending viewport metrics to the engine.
+D/EGL_emulation( 7901): app_time_stats: avg=2448.78ms min=51.81ms max=16532.53ms count=7
+D/FlutterJNI( 7901): Sending viewport metrics to the engine.
+D/FlutterJNI( 7901): Sending viewport metrics to the engine.
+D/FlutterJNI( 7901): Sending viewport metrics to the engine.
+D/FlutterJNI( 7901): Sending viewport metrics to the engine.
+D/EGL_emulation( 7901): app_time_stats: avg=518.09ms min=52.77ms max=1445.57ms count=3
+D/FlutterJNI( 7901): Sending viewport metrics to the engine.
+D/EGL_emulation( 7901): app_time_stats: avg=1689.24ms min=1689.24ms max=1689.24ms count=1
+I/Choreographer( 7901): Skipped 51 frames!  The application may be doing too much work on its main thread.
+W/ithubappflutter( 7901): Verification of void androidx.core.view.ViewCompat.<clinit>() took 163.469ms (575.03 bytecodes/s) (3504B approximate peak alloc)
+D/EGL_emulation( 7901): app_time_stats: avg=21833.40ms min=21833.40ms max=21833.40ms count=1
+D/EGL_emulation( 7901): app_time_stats: avg=7181.40ms min=139.50ms max=21245.96ms count=3
+D/EGL_emulation( 7901): app_time_stats: avg=3201.68ms min=115.41ms max=15278.60ms count=5
+D/EGL_emulation( 7901): app_time_stats: avg=3292.64ms min=82.66ms max=9710.62ms count=3
+D/EGL_emulation( 7901): app_time_stats: avg=9440.63ms min=67.95ms max=28112.87ms count=3
+D/EGL_emulation( 7901): app_time_stats: avg=61.15ms min=6.68ms max=190.23ms count=15
+D/EGL_emulation( 7901): app_time_stats: avg=52.37ms min=30.12ms max=75.12ms count=20
+D/EGL_emulation( 7901): app_time_stats: avg=55.49ms min=5.40ms max=115.04ms count=17
+D/EGL_emulation( 7901): app_time_stats: avg=108.75ms min=16.35ms max=526.22ms count=9
+D/EGL_emulation( 7901): app_time_stats: avg=60.58ms min=16.45ms max=100.43ms count=16
+D/EGL_emulation( 7901): app_time_stats: avg=63.40ms min=31.83ms max=106.32ms count=16
+D/EGL_emulation( 7901): app_time_stats: avg=66.87ms min=39.52ms max=104.44ms count=15
+D/EGL_emulation( 7901): app_time_stats: avg=100.11ms min=64.98ms max=234.21ms count=10
+D/EGL_emulation( 7901): app_time_stats: avg=256.33ms min=139.33ms max=519.05ms count=4
+D/EGL_emulation( 7901): app_time_stats: avg=94.66ms min=42.53ms max=166.51ms count=11
+D/EGL_emulation( 7901): app_time_stats: avg=67.34ms min=21.32ms max=100.22ms count=15
+D/EGL_emulation( 7901): app_time_stats: avg=102.41ms min=38.38ms max=522.76ms count=10
+D/EGL_emulation( 7901): app_time_stats: avg=99.86ms min=43.17ms max=291.95ms count=10
+D/EGL_emulation( 7901): app_time_stats: avg=71.70ms min=50.28ms max=134.98ms count=14
+D/EGL_emulation( 7901): app_time_stats: avg=77.39ms min=55.75ms max=116.97ms count=13
+D/EGL_emulation( 7901): app_time_stats: avg=49.55ms min=17.56ms max=66.47ms count=19
+D/EGL_emulation( 7901): app_time_stats: avg=73.59ms min=36.16ms max=122.01ms count=14
+D/EGL_emulation( 7901): app_time_stats: avg=72.41ms min=23.22ms max=130.94ms count=14
+D/EGL_emulation( 7901): app_time_stats: avg=74.97ms min=29.45ms max=116.17ms count=13
+D/EGL_emulation( 7901): app_time_stats: avg=47.89ms min=3.41ms max=82.45ms count=19
+D/EGL_emulation( 7901): app_time_stats: avg=56.18ms min=18.44ms max=98.49ms count=17
+D/EGL_emulation( 7901): app_time_stats: avg=76.35ms min=49.71ms max=125.65ms count=13
+D/EGL_emulation( 7901): app_time_stats: avg=59.64ms min=4.90ms max=156.21ms count=15
+D/EGL_emulation( 7901): app_time_stats: avg=48.06ms min=17.94ms max=78.58ms count=19
+D/EGL_emulation( 7901): app_time_stats: avg=53.91ms min=4.03ms max=95.29ms count=16
+D/EGL_emulation( 7901): app_time_stats: avg=59.06ms min=23.16ms max=136.17ms count=16
+D/EGL_emulation( 7901): app_time_stats: avg=101.92ms min=50.11ms max=200.25ms count=9
+D/EGL_emulation( 7901): app_time_stats: avg=122.85ms min=23.11ms max=486.23ms count=8
+D/EGL_emulation( 7901): app_time_stats: avg=111.49ms min=25.36ms max=328.45ms count=9
+D/EGL_emulation( 7901): app_time_stats: avg=53.19ms min=16.97ms max=77.30ms count=18
+D/EGL_emulation( 7901): app_time_stats: avg=59.35ms min=17.58ms max=101.73ms count=14
+D/EGL_emulation( 7901): app_time_stats: avg=65.78ms min=48.32ms max=109.28ms count=15
+D/EGL_emulation( 7901): app_time_stats: avg=70.46ms min=32.50ms max=92.63ms count=14
+D/EGL_emulation( 7901): app_time_stats: avg=56.89ms min=19.62ms max=80.07ms count=17
+D/EGL_emulation( 7901): app_time_stats: avg=57.27ms min=21.68ms max=94.83ms count=16
+D/EGL_emulation( 7901): app_time_stats: avg=78.14ms min=28.42ms max=275.33ms count=12
+D/EGL_emulation( 7901): app_time_stats: avg=87.83ms min=50.97ms max=292.15ms count=12
+D/EGL_emulation( 7901): app_time_stats: avg=81.72ms min=61.07ms max=115.65ms count=12
+D/EGL_emulation( 7901): app_time_stats: avg=114.91ms min=37.44ms max=179.67ms count=9
+D/EGL_emulation( 7901): app_time_stats: avg=81.38ms min=61.18ms max=129.28ms count=12
+D/EGL_emulation( 7901): app_time_stats: avg=172.63ms min=65.87ms max=597.38ms count=8
+D/EGL_emulation( 7901): app_time_stats: avg=68.15ms min=2.96ms max=121.65ms count=13
+D/EGL_emulation( 7901): app_time_stats: avg=49.85ms min=19.18ms max=104.66ms count=17
+D/EGL_emulation( 7901): app_time_stats: avg=74.86ms min=39.77ms max=150.85ms count=14
+D/FlutterJNI( 7901): Sending viewport metrics to the engine.
+D/FlutterJNI( 7901): Sending viewport metrics to the engine.
+D/FlutterJNI( 7901): Sending viewport metrics to the engine.
+I/Choreographer( 7901): Skipped 133 frames!  The application may be doing too much work on its main thread.
+D/FlutterJNI( 7901): Sending viewport metrics to the engine.

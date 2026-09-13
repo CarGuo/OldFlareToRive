@@ -1,0 +1,100 @@
+{
+  "definition": "RGBA 8-bit differences over the union of nontransparent pixels; no alignment or color correction",
+  "tolerances": {
+    "maxFractionOver2": 0.0002,
+    "maxMeanAbsoluteRGBA": 0.002
+  },
+  "frames": [
+    {
+      "frame": 0,
+      "foregroundPixels": 192434,
+      "pixelsOver2Of255": 1,
+      "fractionOver2": 5.1965868817360755e-06,
+      "meanAbsoluteRGBA": 6.495733602170094e-06,
+      "maxChannelDifference": 3,
+      "passed": true
+    },
+    {
+      "frame": 60,
+      "foregroundPixels": 192434,
+      "pixelsOver2Of255": 2,
+      "fractionOver2": 1.0393173763472151e-05,
+      "meanAbsoluteRGBA": 7.145306962387104e-05,
+      "maxChannelDifference": 27,
+      "passed": true
+    },
+    {
+      "frame": 150,
+      "foregroundPixels": 192434,
+      "pixelsOver2Of255": 2,
+      "fractionOver2": 1.0393173763472151e-05,
+      "meanAbsoluteRGBA": 7.145306962387104e-05,
+      "maxChannelDifference": 28,
+      "passed": true
+    },
+    {
+      "frame": 298,
+      "foregroundPixels": 192434,
+      "pixelsOver2Of255": 3,
+      "fractionOver2": 1.5589760645208227e-05,
+      "meanAbsoluteRGBA": 0.00015979504661338433,
+      "maxChannelDifference": 37,
+      "passed": true
+    },
+    {
+      "frame": 299,
+      "foregroundPixels": 192434,
+      "pixelsOver2Of255": 1,
+      "fractionOver2": 5.1965868817360755e-06,
+      "meanAbsoluteRGBA": 6.495733602170094e-06,
+      "maxChannelDifference": 3,
+      "passed": true
+    },
+    {
+      "frame": 300,
+      "foregroundPixels": 192434,
+      "pixelsOver2Of255": 1,
+      "fractionOver2": 5.1965868817360755e-06,
+      "meanAbsoluteRGBA": 6.495733602170094e-06,
+      "maxChannelDifference": 3,
+      "passed": true
+    },
+    {
+      "frame": 301,
+      "foregroundPixels": 192434,
+      "pixelsOver2Of255": 1,
+      "fractionOver2": 5.1965868817360755e-06,
+      "meanAbsoluteRGBA": 6.495733602170094e-06,
+      "maxChannelDifference": 3,
+      "passed": true
+    },
+    {
+      "frame": 450,
+      "foregroundPixels": 192434,
+      "pixelsOver2Of255": 4,
+      "fractionOver2": 2.0786347526944302e-05,
+      "meanAbsoluteRGBA": 0.0002494361703233316,
+      "maxChannelDifference": 39,
+      "passed": true
+    },
+    {
+      "frame": 599,
+      "foregroundPixels": 192434,
+      "pixelsOver2Of255": 1,
+      "fractionOver2": 5.1965868817360755e-06,
+      "meanAbsoluteRGBA": 6.495733602170094e-06,
+      "maxChannelDifference": 3,
+      "passed": true
+    },
+    {
+      "frame": 600,
+      "foregroundPixels": 192434,
+      "pixelsOver2Of255": 1,
+      "fractionOver2": 5.1965868817360755e-06,
+      "meanAbsoluteRGBA": 6.495733602170094e-06,
+      "maxChannelDifference": 3,
+      "passed": true
+    }
+  ],
+  "passed": true
+}

@@ -1,0 +1,106 @@
+{
+  "source": "Space-Demo.flr",
+  "animation": "loading",
+  "fps": 60,
+  "durationSeconds": 1.399999976158142,
+  "riveDurationSeconds": 1.399999976158142,
+  "loop": true,
+  "samples": [
+    {
+      "index": 0,
+      "sourceFrame": 0.0,
+      "seconds": 0.0,
+      "playbackReferenceSeconds": 0.0
+    },
+    {
+      "index": 1,
+      "sourceFrame": 0.5,
+      "seconds": 0.008333333333333333,
+      "playbackReferenceSeconds": 0.008333333333333333
+    },
+    {
+      "index": 2,
+      "sourceFrame": 4.333333333333333,
+      "seconds": 0.07222222222222222,
+      "playbackReferenceSeconds": 0.07222222222222222
+    },
+    {
+      "index": 3,
+      "sourceFrame": 8.666666666666666,
+      "seconds": 0.14444444444444443,
+      "playbackReferenceSeconds": 0.14444444444444443
+    },
+    {
+      "index": 4,
+      "sourceFrame": 12.5,
+      "seconds": 0.20833333333333334,
+      "playbackReferenceSeconds": 0.20833333333333334
+    },
+    {
+      "index": 5,
+      "sourceFrame": 13.0,
+      "seconds": 0.21666666666666667,
+      "playbackReferenceSeconds": 0.21666666666666667
+    },
+    {
+      "index": 6,
+      "sourceFrame": 13.5,
+      "seconds": 0.225,
+      "playbackReferenceSeconds": 0.225
+    },
+    {
+      "index": 7,
+      "sourceFrame": 23.333333333333336,
+      "seconds": 0.38888888888888895,
+      "playbackReferenceSeconds": 0.38888888888888895
+    },
+    {
+      "index": 8,
+      "sourceFrame": 33.66666666666667,
+      "seconds": 0.5611111111111112,
+      "playbackReferenceSeconds": 0.5611111111111112
+    },
+    {
+      "index": 9,
+      "sourceFrame": 43.5,
+      "seconds": 0.725,
+      "playbackReferenceSeconds": 0.725
+    },
+    {
+      "index": 10,
+      "sourceFrame": 44.0,
+      "seconds": 0.7333333333333333,
+      "playbackReferenceSeconds": 0.7333333333333333
+    },
+    {
+      "index": 11,
+      "sourceFrame": 44.5,
+      "seconds": 0.7416666666666667,
+      "playbackReferenceSeconds": 0.7416666666666667
+    },
+    {
+      "index": 12,
+      "sourceFrame": 57.333333333333336,
+      "seconds": 0.9555555555555556,
+      "playbackReferenceSeconds": 0.9555555555555556
+    },
+    {
+      "index": 13,
+      "sourceFrame": 70.66666666666667,
+      "seconds": 1.1777777777777778,
+      "playbackReferenceSeconds": 1.1777777777777778
+    },
+    {
+      "index": 14,
+      "sourceFrame": 83.5,
+      "seconds": 1.3916666666666666,
+      "playbackReferenceSeconds": 1.3916666666666666
+    },
+    {
+      "index": 15,
+      "sourceFrame": 84.0,
+      "seconds": 1.399999976158142,
+      "playbackReferenceSeconds": 0.0
+    }
+  ]
+}

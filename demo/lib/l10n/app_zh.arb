@@ -1,0 +1,16 @@
+{
+  "@@locale": "zh",
+  "title": "Flare → Rive",
+  "subtitle": "三个迁移素材 · 八段时间轴 · Rive 运行库",
+  "play": "播放",
+  "pause": "暂停",
+  "timeline": "时间轴（秒）",
+  "dark": "深色背景",
+  "ready": "已就绪 · 时长 {duration} 秒 · 当前 {time} 秒",
+  "loading": "正在加载 Rive 动画…",
+  "error": "无法加载动画：{message}",
+  "asset": "素材",
+  "animation": "动画",
+  "loop": "循环播放",
+  "oneShot": "单次播放"
+}

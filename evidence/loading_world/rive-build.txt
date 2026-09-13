@@ -1,0 +1,70 @@
+{
+  "version": 21,
+  "size": [
+    1024.0,
+    768.0
+  ],
+  "components": {
+    "2": 173,
+    "100": 175,
+    "102": 175,
+    "101": 170,
+    "108": 5
+  },
+  "animations": [
+    {
+      "name": "Earth Moving",
+      "fps": 60,
+      "duration": 10.0,
+      "loop": true,
+      "tracks": [
+        {
+          "component": 13,
+          "property": 1,
+          "keys": [
+            {
+              "time": 0.0,
+              "interpolation": 1,
+              "value": 441.0
+            },
+            {
+              "time": 10.0,
+              "interpolation": 1,
+              "value": -382.8999938964844
+            }
+          ]
+        },
+        {
+          "component": 130,
+          "property": 1,
+          "keys": [
+            {
+              "time": 0.0,
+              "interpolation": 1,
+              "value": -89.23077392578125
+            },
+            {
+              "time": 4.983333333333333,
+              "interpolation": 1,
+              "value": -452.3077392578125
+            },
+            {
+              "time": 5.0,
+              "interpolation": 1,
+              "value": -89.23077392578125
+            },
+            {
+              "time": 10.0,
+              "interpolation": 1,
+              "value": -452.3077392578125
+            }
+          ]
+        }
+      ],
+      "runtime_unread_tail_hex": "0000000000002041"
+    }
+  ]
+}
+[19:59:03.608] rive  verified (0 bytes, 417ms, 0 errors, 0 warnings)
+[19:59:04.699] rive  built /Users/guoshuyu/workspace/flutter-work/gsy_github_app_flutter/tool/flare_to_rive/loading_world/build/loading_world.riv (110241 bytes, 419ms, 0 errors, 0 warnings)
+Ready: /Users/guoshuyu/workspace/flutter-work/gsy_github_app_flutter/tool/flare_to_rive/demo/assets/loading_world_now.riv

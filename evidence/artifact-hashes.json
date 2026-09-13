@@ -1,0 +1,26 @@
+{
+  "sources/Space-Demo.flr": {
+    "bytes": 27997,
+    "sha256": "20659128d7d6b26e09f3f5bb736bbbdd0263cd813ac9839236bbd621d2060e20"
+  },
+  "sources/flare_flutter_logo_.flr": {
+    "bytes": 5418,
+    "sha256": "32e95365d65e28b22c5894ed93768c5adb95e0bea8a789011d9b743df57ebafb"
+  },
+  "sources/loading_world_now.flr": {
+    "bytes": 102246,
+    "sha256": "936bc8ad6b4da49a1b5dbb06888db7b6376b9371040af5116ac3aaf20c60a80c"
+  },
+  "demo/assets/Space-Demo.riv": {
+    "bytes": 41487,
+    "sha256": "03da96e4a2d49526f415acf68a4d9eebd7d97a03d582023f4c23c8e2d53b495c"
+  },
+  "demo/assets/loading_world_now.riv": {
+    "bytes": 110241,
+    "sha256": "50724194da34668dc943f40d63334a4efb71a3bba068a98a5ce47584982680a3"
+  },
+  "demo/assets/flare_flutter_logo_.riv": {
+    "bytes": 50758,
+    "sha256": "631311bc910b7620cede910f7aa01d81180b4d56cd1290fc8300010e204a32ba"
+  }
+}

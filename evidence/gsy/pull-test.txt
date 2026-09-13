@@ -1,0 +1,4 @@
+Waiting for another flutter command to release the startup lock...
+00:00 +0: loading /private/tmp/gsy-rive-tools/gsy-verification/test/widget/pull/gsy_rive_pull_animation_test.dart
+00:00 +0: migration preserves the legacy pull threshold and unbounded time
+00:00 +1: All tests passed!

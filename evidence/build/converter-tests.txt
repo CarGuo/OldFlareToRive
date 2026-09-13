@@ -1,0 +1,18 @@
+test_dynamic_order_matches_source_permutations_without_moving_targets (test_conversion.AdditionalAssetsTest.test_dynamic_order_matches_source_permutations_without_moving_targets) ... ok
+test_flare_corner_uses_full_edge_clamp_and_point_55_handles (test_conversion.AdditionalAssetsTest.test_flare_corner_uses_full_edge_clamp_and_point_55_handles) ... ok
+test_logo_color_and_paint_opacity_remain_independent (test_conversion.AdditionalAssetsTest.test_logo_color_and_paint_opacity_remain_independent) ... ok
+test_rounded_morph_at_independent_off_grid_times (test_conversion.AdditionalAssetsTest.test_rounded_morph_at_independent_off_grid_times) ... ok
+test_unsupported_static_rounding_fails_instead_of_changing_geometry (test_conversion.AdditionalAssetsTest.test_unsupported_static_rounding_fails_instead_of_changing_geometry) ... ok
+test_v18_shape_byte_alignment_and_animation_contract (test_conversion.AdditionalAssetsTest.test_v18_shape_byte_alignment_and_animation_contract) ... ok
+test_cycle_and_unsupported_clip_group_fail (test_conversion.ConversionTest.test_cycle_and_unsupported_clip_group_fail) ... ok
+test_global_draw_order_is_acyclic_and_complete (test_conversion.ConversionTest.test_global_draw_order_is_acyclic_and_complete) ... ok
+test_new_clip_semantics_are_rejected (test_conversion.ConversionTest.test_new_clip_semantics_are_rejected) ... ok
+test_original_animation_contract (test_conversion.ConversionTest.test_original_animation_contract) ... ok
+test_state_machine_is_importable_and_animation_keeps_jump (test_conversion.ConversionTest.test_state_machine_is_importable_and_animation_keeps_jump) ... ok
+test_subframe_keys_are_not_silently_quantized (test_conversion.ConversionTest.test_subframe_keys_are_not_silently_quantized) ... ok
+test_truncated_and_unknown_data_fail (test_conversion.ConversionTest.test_truncated_and_unknown_data_fail) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 2.663s
+
+OK

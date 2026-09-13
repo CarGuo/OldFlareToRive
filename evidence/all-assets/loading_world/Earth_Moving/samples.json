@@ -1,0 +1,100 @@
+{
+  "source": "loading_world_now.flr",
+  "animation": "Earth Moving",
+  "fps": 60,
+  "durationSeconds": 10.0,
+  "riveDurationSeconds": 10.0,
+  "loop": true,
+  "samples": [
+    {
+      "index": 0,
+      "sourceFrame": 0.0,
+      "seconds": 0.0,
+      "playbackReferenceSeconds": 0.0
+    },
+    {
+      "index": 1,
+      "sourceFrame": 0.5,
+      "seconds": 0.008333333333333333,
+      "playbackReferenceSeconds": 0.008333333333333333
+    },
+    {
+      "index": 2,
+      "sourceFrame": 99.66666666666667,
+      "seconds": 1.6611111111111112,
+      "playbackReferenceSeconds": 1.6611111111111112
+    },
+    {
+      "index": 3,
+      "sourceFrame": 199.33333333333334,
+      "seconds": 3.3222222222222224,
+      "playbackReferenceSeconds": 3.3222222222222224
+    },
+    {
+      "index": 4,
+      "sourceFrame": 298.5,
+      "seconds": 4.975,
+      "playbackReferenceSeconds": 4.975
+    },
+    {
+      "index": 5,
+      "sourceFrame": 299.0,
+      "seconds": 4.983333333333333,
+      "playbackReferenceSeconds": 4.983333333333333
+    },
+    {
+      "index": 6,
+      "sourceFrame": 299.3333333333333,
+      "seconds": 4.988888888888889,
+      "playbackReferenceSeconds": 4.988888888888889
+    },
+    {
+      "index": 7,
+      "sourceFrame": 299.5,
+      "seconds": 4.991666666666666,
+      "playbackReferenceSeconds": 4.991666666666666
+    },
+    {
+      "index": 8,
+      "sourceFrame": 299.6666666666667,
+      "seconds": 4.9944444444444445,
+      "playbackReferenceSeconds": 4.9944444444444445
+    },
+    {
+      "index": 9,
+      "sourceFrame": 300.0,
+      "seconds": 5.0,
+      "playbackReferenceSeconds": 5.0
+    },
+    {
+      "index": 10,
+      "sourceFrame": 300.5,
+      "seconds": 5.008333333333334,
+      "playbackReferenceSeconds": 5.008333333333334
+    },
+    {
+      "index": 11,
+      "sourceFrame": 400.0,
+      "seconds": 6.666666666666667,
+      "playbackReferenceSeconds": 6.666666666666667
+    },
+    {
+      "index": 12,
+      "sourceFrame": 500.0,
+      "seconds": 8.333333333333334,
+      "playbackReferenceSeconds": 8.333333333333334
+    },
+    {
+      "index": 13,
+      "sourceFrame": 599.5,
+      "seconds": 9.991666666666667,
+      "playbackReferenceSeconds": 9.991666666666667
+    },
+    {
+      "index": 14,
+      "sourceFrame": 600.0,
+      "seconds": 10.0,
+      "playbackReferenceSeconds": 0.0
+    }
+  ]
+}

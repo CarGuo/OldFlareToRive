@@ -1,0 +1,17 @@
+[
+  {
+    "source": "loading_world_now.flr",
+    "project": "loading_world",
+    "output": "loading_world_now.riv"
+  },
+  {
+    "source": "Space-Demo.flr",
+    "project": "space_demo",
+    "output": "Space-Demo.riv"
+  },
+  {
+    "source": "flare_flutter_logo_.flr",
+    "project": "flutter_logo",
+    "output": "flare_flutter_logo_.riv"
+  }
+]

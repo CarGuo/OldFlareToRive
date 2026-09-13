@@ -1,0 +1,27 @@
+{
+  "apk": "/Users/guoshuyu/workspace/flutter-work/gsy_github_app_flutter/build/app/outputs/flutter-apk/app-release.apk",
+  "apkSha256": "61a0f6651693b65e2cc3031baf27a4937cc3535e944f57a52d7567176b6f0edc",
+  "bytes": 22672764,
+  "flareAssets": [],
+  "riveAssets": [
+    {
+      "asset": "loading_world_now.riv",
+      "sha256": "50724194da34668dc943f40d63334a4efb71a3bba068a98a5ce47584982680a3",
+      "bytes": 110241
+    },
+    {
+      "asset": "Space-Demo.riv",
+      "sha256": "03da96e4a2d49526f415acf68a4d9eebd7d97a03d582023f4c23c8e2d53b495c",
+      "bytes": 41487
+    },
+    {
+      "asset": "flare_flutter_logo_.riv",
+      "sha256": "631311bc910b7620cede910f7aa01d81180b4d56cd1290fc8300010e204a32ba",
+      "bytes": 50758
+    }
+  ],
+  "flutterVersion": "3.47.2",
+  "engineRevision": "a804b261645ef8c13eb3d5c44a5c2fb0340c5539",
+  "elfBuildId": "fdf0a0a6f673cdcfc6c0e5f8dc7c8828d63fb3b6",
+  "engineVerification": "ELF GNU build ID matches the pinned SDK arm64_v8a_release Gradle artifact (APK stripping changes file bytes)."
+}

@@ -1,0 +1,44 @@
+{
+  "@@locale": "en",
+  "title": "Flare → Rive",
+  "subtitle": "Original vectors · synchronized timeline · macOS",
+  "original": "Original · Flare (legacy clipping)",
+  "converted": "Converted · Rive",
+  "play": "Play at 2×",
+  "pause": "Pause",
+  "timeline": "Timeline (seconds)",
+  "pull": "Pull distance (same progress curve as GSY)",
+  "dark": "Dark background",
+  "export": "Export comparison frames",
+  "exporting": "Exporting…",
+  "saved": "Evidence: {path}",
+  "@saved": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "ready": "Ready · {duration} s · {time} s",
+  "@ready": {
+    "placeholders": {
+      "duration": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "loading": "Loading both animation runtimes…",
+  "error": "Could not load the comparison: {message}",
+  "@error": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "asset": "Asset",
+  "animation": "Animation"
+}

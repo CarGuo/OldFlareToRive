@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Earth Moving",
+    "time": 4.0,
+    "loop": true
+  },
+  {
+    "name": "idle comet",
+    "time": 1.6133333206176759,
+    "loop": true
+  },
+  {
+    "name": "idle",
+    "time": 0.5599999904632569,
+    "loop": true
+  },
+  {
+    "name": "loading",
+    "time": 0.5599999904632569,
+    "loop": true
+  },
+  {
+    "name": "success",
+    "time": 0.3400000095367432,
+    "loop": true
+  },
+  {
+    "name": "pull",
+    "time": 0.5599999904632569,
+    "loop": true
+  },
+  {
+    "name": "Placeholder",
+    "time": 0.6000000000000001,
+    "loop": false
+  },
+  {
+    "name": "FlutterToHummingbird",
+    "time": 0.8133333206176758,
+    "loop": false
+  }
+]
